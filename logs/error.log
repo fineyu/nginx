@@ -1,0 +1,40 @@
+2018/11/17 17:06:07 [emerg] 7876#8872: CreateFile() "G:\¹«Ë¾ÏîÄ¿\nginx-1.0.11\nginx-1.0.11/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2018/11/17 17:06:14 [emerg] 17272#16476: CreateFile() "G:\¹«Ë¾ÏîÄ¿\nginx-1.0.11\nginx-1.0.11/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2018/11/17 17:09:08 [emerg] 12864#17536: CreateFile() "G:\¹«Ë¾ÏîÄ¿\nginx-1.0.11\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2018/11/17 17:11:11 [emerg] 1600#8780: CreateFile() "G:\¹«Ë¾ÏîÄ¿\nginx-1.0.11\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2018/11/17 17:15:15 [emerg] 18540#18608: CreateFile() "G:\¹«Ë¾ÏîÄ¿\nginx-1.0.11\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2018/11/17 17:15:51 [emerg] 15396#13720: CreateFile() "G:\¹«Ë¾ÏîÄ¿\nginx-1.0.11\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2018/11/17 17:17:01 [emerg] 9260#11804: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/11/17 17:18:09 [emerg] 6092#1732: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/11/17 17:21:51 [error] 15844#5940: *2 CreateFile() "G:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8860", referrer: "http://127.0.0.1:8860/"
+2018/11/17 17:34:20 [notice] 19732#4136: signal process started
+2018/11/17 17:35:40 [error] 20752#13500: *81 CreateFile() "G:\nginx/business-web/dist/login" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /login HTTP/1.1", host: "127.0.0.1:8860"
+2018/11/17 17:36:03 [notice] 21160#18824: signal process started
+2018/11/17 17:45:53 [notice] 17552#9292: signal process started
+2018/11/17 17:48:42 [notice] 19744#17888: signal process started
+2018/11/26 10:37:07 [notice] 23128#2004: signal process started
+2018/12/01 18:52:27 [notice] 24948#13604: signal process started
+2019/05/09 09:44:48 [warn] 25364#24912: conflicting server name "localhost" on 0.0.0.0:8861, ignored
+2019/05/09 09:44:48 [warn] 21048#23072: conflicting server name "localhost" on 0.0.0.0:8861, ignored
+2019/05/09 09:46:20 [notice] 7724#7472: signal process started
+2019/11/28 09:52:46 [emerg] 15528#19384: host not found in "8090ï¼›" of the "listen" directive in D:\nginx/conf/nginx.conf:37
+2019/11/28 09:52:54 [emerg] 17492#5200: host not found in "8090ï¼›" of the "listen" directive in D:\nginx/conf/nginx.conf:37
+2019/11/28 09:55:29 [emerg] 17564#1880: host not found in "8060ï¼›" of the "listen" directive in D:\nginx/conf/nginx.conf:37
+2019/11/28 09:55:42 [emerg] 19168#7132: host not found in "8060ï¼›" of the "listen" directive in D:\nginx/conf/nginx.conf:37
+2019/11/28 09:55:47 [emerg] 10296#11084: host not found in "8060ï¼›" of the "listen" directive in D:\nginx/conf/nginx.conf:37
+2019/11/28 09:56:53 [emerg] 5548#10592: host not found in "8060ï¼›" of the "listen" directive in D:\nginx/conf/nginx.conf:37
+2019/11/28 09:56:57 [emerg] 19180#10004: host not found in "8060ï¼›" of the "listen" directive in D:\nginx/conf/nginx.conf:37
+2019/11/28 09:57:19 [emerg] 10612#19268: host not found in "8060ï¼›" of the "listen" directive in D:\nginx/conf/nginx.conf:37
+2019/11/28 09:57:46 [notice] 19260#9756: signal process started
+2019/11/28 09:57:51 [notice] 17796#12420: signal process started
+2019/11/28 14:54:50 [notice] 8652#3412: signal process started
+2019/11/28 14:58:03 [notice] 11876#19252: signal process started
+2019/11/28 14:59:43 [notice] 2556#20292: signal process started
+2019/11/28 15:28:14 [notice] 19792#3476: signal process started
+2019/11/28 15:29:52 [notice] 20080#19468: signal process started
+2019/11/28 15:30:39 [notice] 10080#20776: signal process started
+2019/11/28 15:31:23 [notice] 22192#22196: signal process started
+2019/11/28 15:40:29 [notice] 21960#21724: signal process started
+2019/11/28 16:18:51 [notice] 7368#21448: signal process started
+2019/12/16 14:41:23 [notice] 2920#12080: signal process started
+2019/12/16 14:41:23 [error] 2920#12080: OpenEvent("Global\ngx_reload_21096") failed (2: The system cannot find the file specified)
